@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 
-test test
+
 
 ############################################
 # DSI CONSULTING INC. Project setup script #
